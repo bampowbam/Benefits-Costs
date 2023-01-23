@@ -38,27 +38,43 @@ You can make the following assumptions:
 # DB setup
 Please run these commands locally in order to set up db locally and seed database with mock data
 
-dotnet tool install --global dotnet-ef
-dotnet add package Microsoft.EntityFrameworkCore.Design
-dotnet ef migrations add InitialCreate
-dotnet ef database update
+dotnet tool install --global dotnet-ef  
+
+dotnet add package Microsoft.EntityFrameworkCore.Design  
+
+dotnet ef migrations add InitialCreate  
+
+dotnet ef database update  
+
+
 
 # Environment
-.NET Core 6.0 or higher is needed
-Version for Visual Studio > 16
-Version PostgresSQL > version 12
-EF Core 6.0
-PGAdmin4
-Angular CLI version 12.02
-Node 14.17.6
-Npm 7.24.2
+.NET Core 6.0 or higher is needed   
+
+Version for Visual Studio > 16  
+
+Version PostgresSQL > version 12   
+
+EF Core 6.0  
+
+PGAdmin4  
+
+Angular CLI version 12.02  
+
+Node 14.17.6  
+
+Npm 7.24.2  
+
 
 There may be some additional environment information that is missing but should be enough to get started and start the Web App
 
 
 # Architecture
--Rest API
--MVC Pattern
--Angular Frontend
+-Rest API   
+
+-MVC Pattern  
+
+-Angular Frontend   
+
 
 Please reach out to me if you have any questions!
