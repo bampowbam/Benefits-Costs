@@ -35,7 +35,7 @@ You can make the following assumptions:
  There are 26 paychecks in a year
 
 
-#DB setup
+# DB setup
 Please run these commands locally in order to set up db locally and seed database with mock data
 
 dotnet tool install --global dotnet-ef
@@ -43,7 +43,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 
-#Environment
+# Environment
 .NET Core 6.0 or higher is needed
 Version for Visual Studio > 16
 Version PostgresSQL > version 12
@@ -56,7 +56,7 @@ Npm 7.24.2
 There may be some additional environment information that is missing but should be enough to get started and start the Web App
 
 
-#Architecture
+# Architecture
 -Rest API
 -MVC Pattern
 -Angular Frontend
