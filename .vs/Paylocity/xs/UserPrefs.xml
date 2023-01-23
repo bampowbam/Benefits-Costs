@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{CA477279-C466-4411-B43B-E01CA2B9FA2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Paylocity PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Paylocity/Repositories/DependentRepository.cs">
+    <Files>
+      <File FileName="Paylocity/Repositories/DependentRepository.cs" Line="11" Column="1" />
+      <File FileName="Paylocity/Repositories/IDependentRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Paylocity" expanded="True">
+            <Node name="Paylocity" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name=".angular" expanded="True">
+                  <Node name="cache" expanded="True">
+                    <Node name="14.0.3" expanded="True">
+                      <Node name="babel-webpack" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="src" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="DependentRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
