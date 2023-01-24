@@ -77,7 +77,7 @@ There may be some additional environment information that is missing but should 
 -Angular Frontend   
 
 
-I did not have time to set up test but I would have implemented Mock Testing due to the nature of handling service instances (Dependency Injection) with Sonar Qube and JEST framework testing for the frontend.
+Set up some unit test that alloted with time
 
 Please reach out to me if you have any questions!
 
