@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44421",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}

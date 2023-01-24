@@ -34,13 +34,22 @@ namespace Paylocity.Controllers
             return Ok(employee);
         }
 
+        [HttpPost]
+        [Route("/employee")]
+        [Produces("application/json")]
+        public async Task<ActionResult> CreateEmployee([FromBody] Employee details)
+        {
+            Employee? employee = await _employeeRepository.AddEmployee(details);
+            return Ok(employee);
+        }
+
         [HttpPut]
         [Route("/employee/{id}")]
         [Produces("application/json")]
         public async Task<ActionResult> UpdateEmployee([FromRoute] int id, [FromBody] Employee details)
         {
             Employee? employee = await _employeeRepository.UpdateEmployee(details);
-            return Ok();
+            return Ok(employee);
         }
     }
 

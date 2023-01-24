@@ -1,29 +1,37 @@
-﻿<Properties StartupConfiguration="{CA477279-C466-4411-B43B-E01CA2B9FA2F}|Default">
+﻿<Properties StartupConfiguration="{BB49C087-72CD-4036-AAA5-8F216CC62AED}|Default">
   <MonoDevelop.Ide.ItemProperties.Paylocity PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Paylocity/Repositories/DependentRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../usr/local/share/dotnet/sdk/6.0.405/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets">
     <Files>
-      <File FileName="Paylocity/Repositories/DependentRepository.cs" Line="11" Column="1" />
-      <File FileName="Paylocity/Repositories/IDependentRepository.cs" />
+      <File FileName="Paylocity-Tests/EmployeeControllerTests.cs" Line="48" Column="1" />
+      <File FileName="Paylocity/Models/Employee.cs" Line="1" Column="1" />
+      <File FileName="Paylocity/Controllers/EmployeeController.cs" Line="52" Column="31" />
+      <File FileName="Paylocity/Repositories/IEmployeeRepository.cs" Line="1" Column="1" />
+      <File FileName="Paylocity/Repositories/IDependentRepository.cs" Line="1" Column="1" />
+      <File FileName="Paylocity/Repositories/EmployeeRepository.cs" Line="1" Column="1" />
+      <File FileName="../../../../../usr/local/share/dotnet/sdk/6.0.405/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets" Line="134" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Paylocity" expanded="True">
             <Node name="Paylocity" expanded="True">
-              <Node name="ClientApp" expanded="True">
-                <Node name=".angular" expanded="True">
-                  <Node name="cache" expanded="True">
-                    <Node name="14.0.3" expanded="True" />
-                  </Node>
-                </Node>
-                <Node name="src" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="Paylocity-Tests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
               </Node>
-              <Node name="Properties" expanded="True" />
-              <Node name="Repositories" expanded="True">
-                <Node name="DependentRepository.cs" selected="True" />
-              </Node>
+              <Node name="EmployeeControllerTests.cs" selected="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Paylocity" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
@@ -31,7 +39,19 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="28" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="22" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="23" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="37" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="38" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="39" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="40" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="47" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="49" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="50" column="1" />
+      <Breakpoint file="/Users/lukebalogun/Documents/Repos/Benefits-Cost/Paylocity-Tests/EmployeeControllerTests.cs" relfile="Paylocity-Tests/EmployeeControllerTests.cs" line="35" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
